@@ -56,12 +56,3 @@ To run the analysis, follow these steps:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- The Pima Indians Diabetes Dataset was obtained from the National Institute of Diabetes and Digestive and Kidney Diseases.
-- The analysis and code were inspired by various online resources and tutorials.
